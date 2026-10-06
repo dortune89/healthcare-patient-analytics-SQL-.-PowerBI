@@ -55,11 +55,8 @@ SELECT
     DATEDIFF(DAY, Date_of_Admission, Discharge_Date) AS Length_of_Stay
 FROM healthcare.dbo.healthcare;
 
-### 🚲 [Cyclistic Bike-Share Analysis](https://github.com/dortune89/sql--Cyclistic-Bike-Share-data-cleaning-and-analysis-)
-**SQL + Tableau**
 
 ## Tools
 SQL · SQL Server · Excel · Power Query · Power BI · Tableau · KPI Dashboards
 
-## Certifications
-Google Data Analytics Professional Certificate · SQL Fundamentals (CFI) · Excel Data Analysis (CFI) · Scrum Fundamentals Certified
+
