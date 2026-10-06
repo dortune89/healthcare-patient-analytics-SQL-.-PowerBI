@@ -6,7 +6,7 @@ Dataset: 55,500 healthcare patient records
 Interactive dashboard for patient admissions, billing, medical conditions, length of stay, insurance, and test results.
 
 ## Dashboard preview
-![Healthcare Patient Analytics Power BI Dashboard](images/dashboard.png)
+![Healthcare Patient Analytics Power BI Dashboard]PowerBI healthcare Analytics Screenshot.png
 
 ## Business questions
 - How many patients were admitted, and what is total vs average billing?
