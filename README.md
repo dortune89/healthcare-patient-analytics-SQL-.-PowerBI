@@ -43,6 +43,11 @@ Interactive dashboard for patient admissions, billing, medical conditions, lengt
 SELECT
     Name,
     Age,
+    CASE WHEN Age < 18 THEN 'Child'
+    WHEN Age <= 40 THEN 'Young Adult'
+    WHEN Age <= 60 THEN 'Ádult'
+    ELSE 'Senior'
+    END AS AgeGroup,
     Gender,
     Blood_Type,
     Medical_Condition,
